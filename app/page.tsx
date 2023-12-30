@@ -11,7 +11,7 @@ export default function Home( ) {
   const [manufacturer, setManufacturer] = useState("")
   const [model, setModel] = useState("")
   const [fuel, setFUel] = useState("")
-  const [year, setYear] = useState(202)
+  const [year, setYear] = useState(2022)
   const [limit, setLimit] = useState(10)
 
 
